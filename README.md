@@ -1,5 +1,3 @@
-This is a test repository and test commit.
+# About Me
 
-I am making changes to this file.
-
-I am adding one more line.
+This is my about me project. It's not *everything* about me,but it's a start. 
